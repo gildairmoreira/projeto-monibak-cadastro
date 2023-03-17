@@ -19,6 +19,7 @@ Se liga nessa lista de tudo que usaremos nesse Projeto:
 - `CSS`
 - `JavaScript`
 - `Api do Via cep`
+- `RegEX`
 
 E muito mais!
 
